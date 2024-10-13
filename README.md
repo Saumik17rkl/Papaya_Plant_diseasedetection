@@ -1,3 +1,5 @@
+Plant Disease Detection Using CNN
+
 This project focuses on detecting plant diseases from images of leaves using a Convolutional Neural Network (CNN) model. The model is trained to classify different types of diseases, including Anthracnose, Bacterial Spot, Curl, Healthy, and Ring Spot. The data is preprocessed, augmented, and used to train the CNN model for accurate classification.
 
 Features
